@@ -1,0 +1,17 @@
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\bin\x64\concrt140.dll
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\bin\x64\cvextern.dll
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\bin\x64\msvcp140.dll
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\bin\x64\opencv_ffmpeg343_64.dll
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\bin\x64\vcruntime140.dll
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\bin\x86\concrt140.dll
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\bin\x86\cvextern.dll
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\bin\x86\msvcp140.dll
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\bin\x86\opencv_ffmpeg343.dll
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\bin\x86\vcruntime140.dll
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\bin\Example.HelloWorld.exe
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\bin\Example.HelloWorld.pdb
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\Emgu.CV.Example\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\Emgu.CV.Example\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\Emgu.CV.Example\HelloWorld\obj\Debug\HelloWorld.csproj.CopyComplete
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\Emgu.CV.Example\HelloWorld\obj\Debug\Example.HelloWorld.exe
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\Emgu.CV.Example\HelloWorld\obj\Debug\Example.HelloWorld.pdb
