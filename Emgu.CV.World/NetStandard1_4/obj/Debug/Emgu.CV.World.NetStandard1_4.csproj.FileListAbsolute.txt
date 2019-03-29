@@ -1,0 +1,10 @@
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\libs\Emgu.CV.World.NetStandard1_4.xml
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\libs\Emgu.CV.World.NetStandard1_4.deps.json
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\libs\Emgu.CV.World.NetStandard1_4.dll
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\libs\Emgu.CV.World.NetStandard1_4.pdb
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\Emgu.CV.World\NetStandard1_4\obj\Debug\Emgu.CV.World.NetStandard1_4.csprojAssemblyReference.cache
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\Emgu.CV.World\NetStandard1_4\obj\Debug\Emgu.CV.World.NetStandard1_4.csproj.CoreCompileInputs.cache
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\Emgu.CV.World\NetStandard1_4\obj\Debug\Emgu.CV.World.NetStandard1_4.AssemblyInfoInputs.cache
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\Emgu.CV.World\NetStandard1_4\obj\Debug\Emgu.CV.World.NetStandard1_4.AssemblyInfo.cs
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\Emgu.CV.World\NetStandard1_4\obj\Debug\Emgu.CV.World.NetStandard1_4.dll
+C:\opencv\Emgu\emgucv-windesktop 3.4.3.3016\Emgu.CV.World\NetStandard1_4\obj\Debug\Emgu.CV.World.NetStandard1_4.pdb
